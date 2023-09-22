@@ -1,2 +1,2 @@
-# Mi-Tool-Intellij-Configuration
+# mip-java-code-checks
 Configuration files for Intellij
